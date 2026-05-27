@@ -100,18 +100,19 @@ This method has no parameters.
 
 Загружаем или генерируем наборы чисел
 
-##### Parameters
+<a name='T-Study-LabWork2-Feature-Task1-SubTask2-NumberSetProcessor'></a>
+## NumberSetProcessor `type`
 
-This method has no parameters.
+##### Namespace
 
-<a name='M-Study-LabWork2-Feature-Task1-SubTask2-NumberSetProcessor-Process'></a>
-### Process() `method`
+Study.LabWork2.Feature.Task1.SubTask2
 
 ##### Summary
 
-*Inherit from parent.*
+Определяет реализацию для процессора наборов чисел
 
-##### Parameters
+<a name='T-Study-LabWork2-Feature-Task1-SubTask1-SemaphoreService'></a>
+## SemaphoreService `type`
 
 This method has no parameters.
 
